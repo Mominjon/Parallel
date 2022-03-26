@@ -47,12 +47,12 @@ header nav ul li a:hover {
   border-bottom: 3px solid #FFFFFF;
 }
 
-header nav ul .changeLang {
+header nav ul .change_lang {
   margin-right: 0px;
   margin-left: 19px;
 }
 
-header nav ul .changeLang a {
+header nav ul .change_lang a {
   font-family: 'Ruberoid';
   font-style: normal;
   font-weight: 500;
@@ -62,11 +62,11 @@ header nav ul .changeLang a {
   color: #354156;
 }
 
-header nav ul .changeLang a:hover {
+header nav ul .change_lang a:hover {
   border: none;
 }
 
-header nav ul .changeLang span {
+header nav ul .change_lang span {
   height: 23px;
   width: 1px;
   border-right: 2px solid #FFFFFF;
@@ -74,7 +74,7 @@ header nav ul .changeLang span {
   margin-left: 8px;
 }
 
-header nav ul .changeLang .activeLang {
+header nav ul .change_lang .active_lang {
   color: #FFFFFF;
 }
 
@@ -98,7 +98,7 @@ footer {
   left: 15.3%;
 }
 
-footer .changeLang {
+footer .change_lang {
   display: none;
 }
 
@@ -266,11 +266,11 @@ footer div a {
     text-transform: uppercase;
     color: #FFFFFF;
   }
-  header nav ul .changeLang {
+  header nav ul .change_lang {
     margin-right: 16px;
     margin-left: 19px;
   }
-  header nav ul .changeLang a {
+  header nav ul .change_lang a {
     font-family: 'Ruberoid';
     font-style: normal;
     font-weight: 500;
@@ -279,14 +279,14 @@ footer div a {
     text-transform: uppercase;
     color: #354156;
   }
-  header nav ul .changeLang span {
+  header nav ul .change_lang span {
     height: 23px;
     width: 1px;
     border-right: 2px solid #FFFFFF;
     margin-right: 8px;
     margin-left: 8px;
   }
-  header nav ul .changeLang .activeLang {
+  header nav ul .change_lang .active_lang {
     color: #FFFFFF;
   }
   .container {
@@ -349,11 +349,11 @@ footer div a {
     text-transform: uppercase;
     color: #FFFFFF;
   }
-  header nav ul .changeLang {
+  header nav ul .change_lang {
     margin-right: 16px;
     margin-left: 19px;
   }
-  header nav ul .changeLang a {
+  header nav ul .change_lang a {
     font-family: 'Ruberoid';
     font-style: normal;
     font-weight: 500;
@@ -362,14 +362,14 @@ footer div a {
     text-transform: uppercase;
     color: #354156;
   }
-  header nav ul .changeLang span {
+  header nav ul .change_lang span {
     height: 23px;
     width: 1px;
     border-right: 2px solid #FFFFFF;
     margin-right: 8px;
     margin-left: 8px;
   }
-  header nav ul .changeLang .activeLang {
+  header nav ul .change_lang .active_lang {
     color: #FFFFFF;
   }
   .container {
@@ -432,11 +432,11 @@ footer div a {
     text-transform: uppercase;
     color: #FFFFFF;
   }
-  header nav ul .changeLang {
+  header nav ul .change_lang {
     margin-right: 16px;
     margin-left: 19px;
   }
-  header nav ul .changeLang a {
+  header nav ul .change_lang a {
     font-family: 'Ruberoid';
     font-style: normal;
     font-weight: 500;
@@ -445,14 +445,14 @@ footer div a {
     text-transform: uppercase;
     color: #354156;
   }
-  header nav ul .changeLang span {
+  header nav ul .change_lang span {
     height: 23px;
     width: 1px;
     border-right: 2px solid #FFFFFF;
     margin-right: 8px;
     margin-left: 8px;
   }
-  header nav ul .changeLang .activeLang {
+  header nav ul .change_lang .active_lang {
     color: #FFFFFF;
   }
   .container {
@@ -479,11 +479,11 @@ footer div a {
   footer div a {
     margin: 0 9.8px;
   }
-  footer .changeLang {
+  footer .change_lang {
     margin: 10px 0px;
     display: block;
   }
-  footer .changeLang a {
+  footer .change_lang a {
     font-family: 'Ruberoid';
     font-style: normal;
     font-weight: 500;
@@ -492,14 +492,14 @@ footer div a {
     text-transform: uppercase;
     color: #354156;
   }
-  footer .changeLang span {
+  footer .change_lang span {
     height: 23px;
     width: 1px;
     border-right: 2px solid #FFFFFF;
     margin-right: 8px;
     margin-left: 8px;
   }
-  footer .changeLang .activeLang {
+  footer .change_lang .active_lang {
     color: #FFFFFF;
   }
   header nav {
@@ -541,12 +541,12 @@ footer div a {
     text-transform: uppercase;
     color: #FFFFFF;
   }
-  header nav ul .changeLang {
+  header nav ul .change_lang {
     margin-right: 16px;
     margin-left: 19px;
     display: none;
   }
-  header nav ul .changeLang a {
+  header nav ul .change_lang a {
     font-family: 'Ruberoid';
     font-style: normal;
     font-weight: 500;
@@ -555,14 +555,14 @@ footer div a {
     text-transform: uppercase;
     color: #354156;
   }
-  header nav ul .changeLang span {
+  header nav ul .change_lang span {
     height: 23px;
     width: 1px;
     border-right: 2px solid #FFFFFF;
     margin-right: 8px;
     margin-left: 8px;
   }
-  header nav ul .changeLang .activeLang {
+  header nav ul .change_lang .active_lang {
     color: #FFFFFF;
   }
   .container {
@@ -589,11 +589,11 @@ footer div a {
   footer div a {
     margin: 0 9.8px;
   }
-  footer .changeLang {
+  footer .change_lang {
     margin: 10px 0px;
     display: block;
   }
-  footer .changeLang a {
+  footer .change_lang a {
     font-family: 'Ruberoid';
     font-style: normal;
     font-weight: 500;
@@ -602,14 +602,14 @@ footer div a {
     text-transform: uppercase;
     color: #354156;
   }
-  footer .changeLang span {
+  footer .change_lang span {
     height: 23px;
     width: 1px;
     border-right: 2px solid #FFFFFF;
     margin-right: 8px;
     margin-left: 8px;
   }
-  footer .changeLang .activeLang {
+  footer .change_lang .active_lang {
     color: #FFFFFF;
   }
   header nav {
@@ -651,12 +651,12 @@ footer div a {
     text-transform: uppercase;
     color: #FFFFFF;
   }
-  header nav ul .changeLang {
+  header nav ul .change_lang {
     margin-right: 16px;
     margin-left: 19px;
     display: none;
   }
-  header nav ul .changeLang a {
+  header nav ul .change_lang a {
     font-family: 'Ruberoid';
     font-style: normal;
     font-weight: 500;
@@ -665,14 +665,14 @@ footer div a {
     text-transform: uppercase;
     color: #354156;
   }
-  header nav ul .changeLang span {
+  header nav ul .change_lang span {
     height: 23px;
     width: 1px;
     border-right: 2px solid #FFFFFF;
     margin-right: 8px;
     margin-left: 8px;
   }
-  header nav ul .changeLang .activeLang {
+  header nav ul .change_lang .active_lang {
     color: #FFFFFF;
   }
   .container {
@@ -699,11 +699,11 @@ footer div a {
   footer div a {
     margin: 0 9.8px;
   }
-  footer .changeLang {
+  footer .change_lang {
     margin: 10px 0px;
     display: block;
   }
-  footer .changeLang a {
+  footer .change_lang a {
     font-family: 'Ruberoid';
     font-style: normal;
     font-weight: 500;
@@ -712,14 +712,14 @@ footer div a {
     text-transform: uppercase;
     color: #354156;
   }
-  footer .changeLang span {
+  footer .change_lang span {
     height: 23px;
     width: 1px;
     border-right: 2px solid #FFFFFF;
     margin-right: 8px;
     margin-left: 8px;
   }
-  footer .changeLang .activeLang {
+  footer .change_lang .active_lang {
     color: #FFFFFF;
   }
   header nav {
@@ -761,12 +761,12 @@ footer div a {
     text-transform: uppercase;
     color: #FFFFFF;
   }
-  header nav ul .changeLang {
+  header nav ul .change_lang {
     margin-right: 16px;
     margin-left: 19px;
     display: none;
   }
-  header nav ul .changeLang a {
+  header nav ul .change_lang a {
     font-family: 'Ruberoid';
     font-style: normal;
     font-weight: 500;
@@ -775,14 +775,14 @@ footer div a {
     text-transform: uppercase;
     color: #354156;
   }
-  header nav ul .changeLang span {
+  header nav ul .change_lang span {
     height: 23px;
     width: 1px;
     border-right: 2px solid #FFFFFF;
     margin-right: 8px;
     margin-left: 8px;
   }
-  header nav ul .changeLang .activeLang {
+  header nav ul .change_lang .active_lang {
     color: #FFFFFF;
   }
   .container {
@@ -809,11 +809,11 @@ footer div a {
   footer div a {
     margin: 0 9.8px;
   }
-  footer .changeLang {
+  footer .change_lang {
     margin: 10px 0px;
     display: block;
   }
-  footer .changeLang a {
+  footer .change_lang a {
     font-family: 'Ruberoid';
     font-style: normal;
     font-weight: 500;
@@ -822,14 +822,14 @@ footer div a {
     text-transform: uppercase;
     color: #354156;
   }
-  footer .changeLang span {
+  footer .change_lang span {
     height: 23px;
     width: 1px;
     border-right: 2px solid #FFFFFF;
     margin-right: 8px;
     margin-left: 8px;
   }
-  footer .changeLang .activeLang {
+  footer .change_lang .active_lang {
     color: #FFFFFF;
   }
   header nav {
@@ -874,12 +874,12 @@ footer div a {
   header nav ul li a:hover {
     border-color: #354156;
   }
-  header nav ul .changeLang {
+  header nav ul .change_lang {
     margin-right: 16px;
     margin-left: 19px;
     display: none;
   }
-  header nav ul .changeLang a {
+  header nav ul .change_lang a {
     font-family: 'Ruberoid';
     font-style: normal;
     font-weight: 500;
@@ -888,14 +888,14 @@ footer div a {
     text-transform: uppercase;
     color: #354156;
   }
-  header nav ul .changeLang span {
+  header nav ul .change_lang span {
     height: 23px;
     width: 1px;
     border-right: 2px solid #FFFFFF;
     margin-right: 8px;
     margin-left: 8px;
   }
-  header nav ul .changeLang .activeLang {
+  header nav ul .change_lang .active_lang {
     color: #FFFFFF;
   }
   .container {
@@ -922,11 +922,11 @@ footer div a {
   footer div a {
     margin: 0 9.8px;
   }
-  footer .changeLang {
+  footer .change_lang {
     margin: 10px 0px;
     display: block;
   }
-  footer .changeLang a {
+  footer .change_lang a {
     font-family: 'Ruberoid';
     font-style: normal;
     font-weight: 500;
@@ -935,14 +935,14 @@ footer div a {
     text-transform: uppercase;
     color: #354156;
   }
-  footer .changeLang span {
+  footer .change_lang span {
     height: 23px;
     width: 1px;
     border-right: 2px solid #FFFFFF;
     margin-right: 8px;
     margin-left: 8px;
   }
-  footer .changeLang .activeLang {
+  footer .change_lang .active_lang {
     color: #FFFFFF;
   }
   header nav {
@@ -985,12 +985,12 @@ footer div a {
     text-transform: uppercase;
     color: #354156;
   }
-  header nav ul .changeLang {
+  header nav ul .change_lang {
     margin-right: 16px;
     margin-left: 19px;
     display: none;
   }
-  header nav ul .changeLang a {
+  header nav ul .change_lang a {
     font-family: 'Ruberoid';
     font-style: normal;
     font-weight: 500;
@@ -999,14 +999,14 @@ footer div a {
     text-transform: uppercase;
     color: #354156;
   }
-  header nav ul .changeLang span {
+  header nav ul .change_lang span {
     height: 23px;
     width: 1px;
     border-right: 2px solid #FFFFFF;
     margin-right: 8px;
     margin-left: 8px;
   }
-  header nav ul .changeLang .activeLang {
+  header nav ul .change_lang .active_lang {
     color: #FFFFFF;
   }
   .container {
@@ -1033,11 +1033,11 @@ footer div a {
   footer div a {
     margin: 0 9.8px;
   }
-  footer .changeLang {
+  footer .change_lang {
     margin: 10px 0px;
     display: block;
   }
-  footer .changeLang a {
+  footer .change_lang a {
     font-family: 'Ruberoid';
     font-style: normal;
     font-weight: 500;
@@ -1046,14 +1046,14 @@ footer div a {
     text-transform: uppercase;
     color: #354156;
   }
-  footer .changeLang span {
+  footer .change_lang span {
     height: 23px;
     width: 1px;
     border-right: 2px solid #FFFFFF;
     margin-right: 8px;
     margin-left: 8px;
   }
-  footer .changeLang .activeLang {
+  footer .change_lang .active_lang {
     color: #FFFFFF;
   }
   header nav {
@@ -1096,12 +1096,12 @@ footer div a {
     text-transform: uppercase;
     color: #354156;
   }
-  header nav ul .changeLang {
+  header nav ul .change_lang {
     margin-right: 16px;
     margin-left: 19px;
     display: none;
   }
-  header nav ul .changeLang a {
+  header nav ul .change_lang a {
     font-family: 'Ruberoid';
     font-style: normal;
     font-weight: 500;
@@ -1110,14 +1110,14 @@ footer div a {
     text-transform: uppercase;
     color: #354156;
   }
-  header nav ul .changeLang span {
+  header nav ul .change_lang span {
     height: 23px;
     width: 1px;
     border-right: 2px solid #FFFFFF;
     margin-right: 8px;
     margin-left: 8px;
   }
-  header nav ul .changeLang .activeLang {
+  header nav ul .change_lang .active_lang {
     color: #FFFFFF;
   }
   .container {
@@ -1144,11 +1144,11 @@ footer div a {
   footer div a {
     margin: 0 9.8px;
   }
-  footer .changeLang {
+  footer .change_lang {
     margin: 10px 0px;
     display: block;
   }
-  footer .changeLang a {
+  footer .change_lang a {
     font-family: 'Ruberoid';
     font-style: normal;
     font-weight: 500;
@@ -1157,14 +1157,14 @@ footer div a {
     text-transform: uppercase;
     color: #354156;
   }
-  footer .changeLang span {
+  footer .change_lang span {
     height: 23px;
     width: 1px;
     border-right: 2px solid #FFFFFF;
     margin-right: 8px;
     margin-left: 8px;
   }
-  footer .changeLang .activeLang {
+  footer .change_lang .active_lang {
     color: #FFFFFF;
   }
   header nav {
@@ -1207,12 +1207,12 @@ footer div a {
     text-transform: uppercase;
     color: #354156;
   }
-  header nav ul .changeLang {
+  header nav ul .change_lang {
     margin-right: 16px;
     margin-left: 19px;
     display: none;
   }
-  header nav ul .changeLang a {
+  header nav ul .change_lang a {
     font-family: 'Ruberoid';
     font-style: normal;
     font-weight: 500;
@@ -1221,14 +1221,14 @@ footer div a {
     text-transform: uppercase;
     color: #354156;
   }
-  header nav ul .changeLang span {
+  header nav ul .change_lang span {
     height: 23px;
     width: 1px;
     border-right: 2px solid #FFFFFF;
     margin-right: 8px;
     margin-left: 8px;
   }
-  header nav ul .changeLang .activeLang {
+  header nav ul .change_lang .active_lang {
     color: #FFFFFF;
   }
   .container {
